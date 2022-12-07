@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://caracoltv.brightspotcdn.com/dims4/default/fa7c47f/2147483647/strip/true/crop/1095x616+0+50/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fbluradio%2Fnacional-campeon-definitiva.jpg);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container_hero h1 {
+    text-align: center;
+    color: blue;
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
+
+.container_hero p {
+    font-weight: 500;
+    text-align: center;
+    color: red;
+    font-size: 1.5rem;
+    background-color: chartreuse;
+}
+
+.container_hero span {
+    text-align: center;
+    color: blue;
+}

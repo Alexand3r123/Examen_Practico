@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hero {
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(../Images/Figma.png);
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    text-align: center;
+    width: 100%;
+    color: red;
+}
+
+.back img {
+    width: 100px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: -30px;
+    padding: 10px;
+}

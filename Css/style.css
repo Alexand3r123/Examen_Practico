@@ -1,0 +1,112 @@
+*{
+    margin: auto;
+    padding: 0 auto ;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+.linea{
+    border: 4px solid #2E2D2D;
+}
+.menu {
+    background: url(../Images/menu.png)no-repeat;
+    border-radius: 0 50px 60px 0;
+    margin: 15px 0 0 0;
+    width: 100%;
+    height:20% ;
+    position: absolute;
+
+}
+.menu h1 {
+    color:  white;
+    display: flex;
+    margin: 4% 0 0 22%;
+    font-size: 2rem;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linea3 {
+    border:  3px solid  #2E2D2D;
+    margin: 5px 0 0 0;
+}
+.linea2 {
+    border:  3px solid  #2E2D2D;
+    margin: 215px 0 0 0;
+}
+.lineaf  {
+    border:  3px solid  #2E2D2D;
+    margin: 90% 0 0 0;
+}
+.menu .masinfo img{
+    display: inline-block;
+    height: 30%;
+    position: absolute;
+    margin: -2.5%  0 0 63%;
+}
+
+
+.menu .icon img {
+    display: inline-block;
+    height: 70%;
+    position: absolute;
+    margin: -4%  0 0 76%;
+
+}
+
+#br .fondo {
+    background: url(../Images/fondo.png)no-repeat;
+    
+    width: 100%;
+    height:100%;
+    position: absolute;
+}
+#br .line {
+    position: absolute;
+    background-color: #2E2D2D;
+    border: 1.5px solid #2E2D2D;
+    height: 100%;
+    margin: 0.0% 0 0 50%;
+}
+#br .text1 img {
+    margin: 0 0 0 51%;
+}
+#br .text2 img {
+    margin: -1% 0 0 30%;
+}
+#br .masinfo img {
+    width: 10%;
+    margin:2% 0 0 33%;
+}
+#sub .footer {
+    background: url(../Images/mayoresdeedadfondo.png)no-repeat;
+    display: flex;
+    margin: 50.8% 0 0 0;
+    width: 100%;
+    height:20% ;
+    position: absolute;
+
+}
+#sub .text img{
+    margin: 53.6% 0 0 22%;
+    width: 50%;
+    position: absolute;
+}
+#sub .pro img {
+    margin: 51.6% 0 0 75%;
+    position: absolute;
+}
+#sub .final  {
+    background: url(../Images/fin)no-repeat;
+    display: flex;
+    margin: 60.8% 0 0 0;
+    width: 100%;
+    height:59%;
+    position: absolute;
+}
+#sub .final .ft img{
+    margin: -10% 0 0 -29%;
+    position: absolute;
+    width: 50%;
+
+}
